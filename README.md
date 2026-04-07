@@ -66,7 +66,7 @@ The layout was done in KiCAD and took almost 6 revisions. It is a 4-layer board 
 </div>
 One of the hardest parts of the process was soldering and debugging the board. Almost all of our passive components were 0603 and were entirely hand soldered and the process took over 8 hours. I debugged the board primarily through following my test plan, which you can find here: 
 
-[Test Plan](https://[your-long-link.com](https://docs.google.com/document/d/1dWHqh_tH-KAfCqI4JE5uINjZ180YYHxUwMFZACGtfho/edit?usp=sharing))
+[Test Plan](https://docs.google.com/document/d/1dWHqh_tH-KAfCqI4JE5uINjZ180YYHxUwMFZACGtfho/edit?usp=sharing)
 
 Many of the faults included shorts from the microcontroller and STLINKV3 due to their small pad size. 
 
