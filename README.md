@@ -70,5 +70,5 @@ One of the hardest parts of the process was soldering and debugging the board. A
 
 Many of the faults included shorts from the microcontroller and STLINKV3 due to their small pad size. 
 
-## Closign Remarks
+## Closing Remarks
 This was definitely the biggest, most complex, and my proudest project to date! If you have any questions email me at: ronaldzhao17@gmail.com
