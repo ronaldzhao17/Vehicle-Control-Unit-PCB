@@ -5,5 +5,10 @@ The board mainly serves these purposes:
 2. Electronic Throttle Control: Motor control using position pedal sensor inputs
 3. Inertial Measurement Unit: Improves FS-4's traction control
 4. System Fault Indication: Traction System Status Indicator, ETC.
+## Top Layer Signal Digram
+
 ## Final PCB
-![Final PCB]()
+<div align="center">
+  <img src="VCU_PCB.jpg" width="55%">
+</div>
+One of the hardest parts of the process was soldering and debugging the board. 
